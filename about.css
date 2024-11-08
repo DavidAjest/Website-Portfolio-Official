@@ -31,7 +31,7 @@ nav {
   display: flex;
 
   /* The image used */
-  background-image: url("images/Reka_france.jpg");
+  background-image: url("public/images/Reka_france.jpg");
   filter: brightness(90%);
 
   /* Set a specific height */
