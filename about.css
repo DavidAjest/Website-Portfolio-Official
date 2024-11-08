@@ -231,6 +231,7 @@ h3 {
     padding-right: 0%;
     padding-left: 0%;
     font-size: x-large;
+    max-width: 80%;
   }
 
   .text-h2-p h2 {
